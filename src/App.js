@@ -10,7 +10,7 @@ import { Navbar } from "./component/ReactRouter/Navbar";
 function App() {
 const Name = ()=>{
   return(
-    <h1>hello, i am a Name page</h1>
+    <h1>Hello, I am a Name page</h1>
   )
 }
 
